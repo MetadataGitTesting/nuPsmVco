@@ -1,0 +1,50 @@
+name: debra.parisian
+description: approach
+version: 0.0.1
+author: potympss.pljcdh0j@tsgfab5d.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: debraparisian
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-12-05 22:43:43'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-12-05 22:43:43'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-12-05T22:43:43.7057Z'
+  name: plibMaven
+  version: 8.16.0-SNAPSHOT
+  id: '685169934'
+  createdAt: '2025-12-05T22:43:43.7057Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
